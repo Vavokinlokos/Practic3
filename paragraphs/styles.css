@@ -9,21 +9,26 @@ div{
 
 .solid{
     border: thick solid;
+    background-color: hotpink;
 }
 
 .dashed{
     border: thick dashed;
+    background-color: #3689f7;
 }
 
 .dotted{
     border: thick dotted;
+    background-color: rgb(130, 90, 224);
 }
 
 .double{
     border: thick double;
+    background-image: url("https://amymhaddad.s3.amazonaws.com/morocco-blue.png");
 }
 
 .groove{
+    background-image: url("background.jpg");
     border: thick groove rgb(7, 172, 163);
 }
 
