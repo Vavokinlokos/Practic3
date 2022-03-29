@@ -1,0 +1,40 @@
+div{
+    display: block;
+    width: 600px;
+    height: 20px;
+    font-size: large;
+    margin-bottom: 5px;
+    padding: 5px 0px 5px 0px;
+}
+
+.solid{
+    border: thick solid;
+}
+
+.dashed{
+    border: thick dashed;
+}
+
+.dotted{
+    border: thick dotted;
+}
+
+.double{
+    border: thick double;
+}
+
+.groove{
+    border: thick groove rgb(7, 172, 163);
+}
+
+.ridge{
+    border: thick ridge rgb(7, 172, 163);
+}
+
+.outset{
+    border: thick outset rgb(7, 172, 163);
+}
+
+.inset{
+    border: thick inset rgb(7, 172, 163);
+}
